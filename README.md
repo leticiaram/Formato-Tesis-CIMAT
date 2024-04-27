@@ -4,5 +4,5 @@ Este formato se suele difundir entre estudiantes en su cuarto semestre de maestr
 
 El archivo principal  Tesis_Apellidos.tex es el que se debe compilar. Éste carga los paquetes necesarios y es donde se definen funciones y se incluyen a los capítulos y apéndices del documento. 
 
-Todos las imágenes y partes que componen la tesis se incluyen en las carptetas respectivas.
+Todos las imágenes y partes que componen la tesis se incluyen en las carpetas respectivas.
 
