@@ -1,5 +1,6 @@
-Aunque no existe un formato oficial de CIMAT, este formato es una versión basada en el formato desarrollado por colegas en el CIMAT unidad Monterrey y se suele difundir entre estudiantes en su cuarto semestre de maestría.
+Aunque no existe un formato oficial de tesis de posgrado de CIMAT, este formato es una versión basada en desarrollado por colegas en el CIMAT unidad Monterrey y se suele difundir entre estudiantes en su cuarto semestre de maestría.
 
-El archivo principal  Tesis_Apellidos.tex es el que se debe compilar. Este llama los paquetes necesarios, se definen funciones y se llaman a los capítulos y apéndices del documento. 
+El archivo principal  Tesis_Apellidos.tex es el que se debe compilar. Éste carga los paquetes necesarios y es donde se definen funciones y se incluyen a los capítulos y apéndices del documento. 
 
-Todos las imágenes y partes de la tesis se incluyen en las carptetas respectivas.
+Todos las imágenes y partes que componen la tesis se incluyen en las carptetas respectivas.
+
