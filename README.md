@@ -1,4 +1,4 @@
-Aunque no existe un formato oficial de tesis de posgrado de CIMAT, este formato es una versión basada en  la desarrollada por  Kenny Yahir Mendez Ramirez, Cristal E. Mendez Ramirez. El codigo de la portada se basa en el formato de Overleaf  creado por Aalvador Pedraza Espitia: https://www.overleaf.com/latex/templates/unam-dissert/mypjkyrmhgns
+Aunque no existe un formato oficial de tesis de posgrado de CIMAT, este formato es una versión basada en  la desarrollada por  Kenny Yahir Mendez Ramirez, Cristal E. Mendez Ramirez. El código de la portada se basa en el formato de Overleaf  creado por Aalvador Pedraza Espitia: https://www.overleaf.com/latex/templates/unam-dissert/mypjkyrmhgns
 
 Este formato se suele difundir entre estudiantes en su cuarto semestre de maestría y entre estudiantes del Doctorado en Ciencias.
 
